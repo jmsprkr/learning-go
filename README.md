@@ -1,2 +1,2 @@
 # learning-go
-Learning github and golang
+Learning golang
